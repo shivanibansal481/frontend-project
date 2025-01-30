@@ -1,0 +1,41 @@
+body {
+    height:100vh;
+    }
+    
+    .box{
+    text-align:center;
+    height:33%;
+    width:100%;
+    border: 1px solid black;
+    }
+    .sections{
+    height:100%;
+    width:33%;
+    border: 2px dotted black;}
+    
+    .header{
+    background-color:pink;
+    text-align:center;
+    height:33%;
+    width:100%;
+    }
+    .display-flex{
+    display:flex;}
+    
+    .left{
+    background-color:red;
+    }
+    .center{
+    background-color:yellow;
+    }
+    
+    .right{
+    background-color:green ;
+    }
+    
+    .header{
+    background-color:blue;
+    }
+    .footer{
+    background-color:pink;
+    }
